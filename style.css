@@ -277,61 +277,6 @@ color: #37517e;
     }
     
     @media only screen and (max-width:600px){
-         
-            .gallerycol1{
-                position: absolute;
-                left: 0;
-                top: 0;
-            }
-            .gallerycol2{
-                position: absolute;
-                left: 220px;
-                top: 0;
-            }
-            .gallerycol3{
-                position: absolute;
-                top: 220px;
-                left: 0;
-            }
-            .gallerycol4{
-                position: absolute;
-                left: 220px;
-                top:160px ;
-            }
-            .gallerycol5{
-                position: absolute;
-                left: 0;
-                top: 360px;
-            }
-            .gallerycol6{
-                position: absolute;
-                left: 220px;
-                top: 470px;
-            }
-            .gallerycol7{
-                position: absolute;
-                left: 0;
-                top:670px ;
-            }
-            .gallerycol8{
-                position: absolute;
-                left: 220px;
-                top: 620px;
-            }
-            .gallerycol9{
-                position: absolute;
-                left: 220px;
-                top: 770px ;
-            }
-            .galleryrow{
-                
-                height: 960px;
-            }
-            .question .width{
-                width: 100%;
-            }
-    }
-    @media only screen and (max-width:480px){
         .gallerycol1{
             position: relative;
            left: 0;
